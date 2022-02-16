@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-permalink: /pubs/
+permalink: /research/
 ---
 
 1. A great publication.
