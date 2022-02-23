@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What else do I do?
-permalink: /otherinterests/
+permalink: /interests/
 ---
 
 #####The Nightcap SLO
