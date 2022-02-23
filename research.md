@@ -4,5 +4,7 @@ title: Publications
 permalink: /research/
 ---
 
-Computational Chemistry
-Education in Chemistry and STEM
+
+
+-Computational Chemistry
+-Education in Chemistry and STEM
