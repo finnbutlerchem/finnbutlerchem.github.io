@@ -4,8 +4,6 @@ title: Research Interests
 permalink: /research/
 ---
 
-
-list
--- Computational Chemistry
--Education in Chemistry and STEM
---
+*Computational Chemistry
+*Education in Chemistry and STEM
+*Use of New Media for STEM Education
