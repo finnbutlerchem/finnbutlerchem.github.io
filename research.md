@@ -7,3 +7,6 @@ permalink: /research/
 *Computational Chemistry
 *Education in Chemistry and STEM
 *Use of New Media for STEM Education
+- George Washington
+- John Adams
+- Thomas Jefferson
