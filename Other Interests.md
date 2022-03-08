@@ -5,7 +5,8 @@ permalink: /interests/
 ---
 
 ##### The Nightcap SLO
-
+<img src="{{site.baseurl}}/images/Headshot.jpg" alt="Picture of me" width="200" height="200"
+style="float: right; margin-top: 0px; margin-left: 10px" />
 I'm a video editer and general production member for Cal Poly SLO's Sketch Comedy Team. Here's our [website](https://thenightcapslo.com/).
 
 ##### Game Theory
