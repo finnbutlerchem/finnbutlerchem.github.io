@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 
-
--Computational Chemistry
+list
+-- Computational Chemistry
 -Education in Chemistry and STEM
+--
